@@ -1,0 +1,3 @@
+com\mycompany\model\Accounts.class
+com\mycompany\view\MyMainView.class
+com\mycompany\controller\AccountController.class
